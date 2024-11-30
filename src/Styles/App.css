@@ -116,7 +116,9 @@ font-weight: 600;
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
-  padding: 50px; 
+  padding: 50px;
+  justify-content: center;
+  align-items: center;
 }
 
 .movie-detail-container{
@@ -203,7 +205,9 @@ color: green;
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
-padding : 40px;
+  padding : 40px;
+  justify-content: center;
+  align-items: center;
 
 }
 
