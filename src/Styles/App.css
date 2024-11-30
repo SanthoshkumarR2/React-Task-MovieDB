@@ -12,7 +12,7 @@ nav{
   justify-content: space-around;
   align-items: center;
   font-weight: 800;
-  height: 90px;
+  height: 70px;
 }
 
 nav ul{
@@ -105,8 +105,10 @@ font-weight: 600;
 .movie-container{
   display: flex;
   flex-wrap: wrap;
-  gap: 15px;
   padding: 40px;
+  gap: 35px;
+  align-content: center;
+  justify-content: center;
  
 }
 
